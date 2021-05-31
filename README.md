@@ -17,8 +17,8 @@ Load repository and use Django manage.py commands / principles for each project.
 ...
 
 ## Technologies
-* Django is a fullstack framework but primarily Python, HTML, maybe some JavaScript
-* Pyenv and venv are used for Python virtual environments
+* Django is a fullstack framework but languages primarily include Python, HTML, CSS, Javascript, etc.
+* Venv is used for Python virtual environments
 * Docker
 * PostgreSQL
 * Other libraries, packages, and development principles touched in especially with regards to performance and security in Django projects
@@ -27,4 +27,4 @@ Load repository and use Django manage.py commands / principles for each project.
 Did Django development for my 2nd and 3rd work terms, just starting my 4th work term and going to be developing a production-level Django project for that as well so want to really understand the development process, good design principles, and solid security.
 
 ## Sources
-Some deviations may occur and examples taken from online but the book is the primary source.
+Some deviations may occur and examples taken from online but the book is the primary source and I follow the examples within it closely.
